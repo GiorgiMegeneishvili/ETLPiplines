@@ -1,10 +1,5 @@
 # End-to-End ETL Pipeline with PySpark and Apache Airflow
 
-![Pipeline](ETL&ELTDiagram.png)
-
-
-# End-to-End ETL Pipeline with PySpark and Apache Airflow
-
 ## Overview
 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline that integrates data from multiple heterogeneous sources, including Microsoft SQL Server (MSSQL) and external Application APIs.
